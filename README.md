@@ -50,7 +50,8 @@ Credit Card Balance	₹9.53 Million
 Checking Account Balance	₹963.28 Million
 Saving Account Balance	₹698.73 Million
 
-![Screenshot 2025-06-01 164028](https://github.com/user-attachments/assets/7cad1bca-433c-4be5-8a14-dab760b2a3d2)
+
+![Screenshot 2025-06-01 164028](https://github.com/user-attachments/assets/80d13920-1de0-4889-b0e0-c5e1ca6bb5c8)
 
 📊 Dashboards Breakdown
 🔹 Home Dashboard
