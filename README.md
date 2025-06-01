@@ -122,7 +122,7 @@ Need for balancing loan-deposit ratio strategically
 
 🔗 Project Author
 Ganesh Chandrashekhar Thaware
-📧 Email: Ganeshthawre5@gamil.com
-🔗 GitHub: https://github.com/ganeshthawre2002
-🔗 LinkedIn: www.linkedin.com/in/ganesh-thawre2002
+📧 Email: [Ganeshthawre5@gamil.com]
+🔗 GitHub: [https://github.com/ganeshthawre2002]
+🔗 LinkedIn: [www.linkedin.com/in/ganesh-thawre2002]
 
