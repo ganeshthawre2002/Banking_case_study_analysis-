@@ -37,7 +37,7 @@ To create a data-driven dashboard that enables banking stakeholders to:
 👥 Customer Summary
 Clients: 3,000
 
-Data Range: 1995 – 2005
+Data Range: 1995 – 2021
 
 Gender: Male & Female (filterable)
 
